@@ -2,7 +2,7 @@
 
 ## 软件 名称 和 下载 地址
 
-<a href="https://telegra.ph/%E6%B5%8B%E8%AF%95%E7%89%88Dupay%E5%AE%B6%E5%BA%AD%E4%BB%A3%E7%90%86-05-28" target="_blank">家庭代理使用教程</a>
+[家庭代理使用教程](https://telegra.ph/%E6%B5%8B%E8%AF%95%E7%89%88Dupay%E5%AE%B6%E5%BA%AD%E4%BB%A3%E7%90%86-05-28)
 
 [Dupay官方Telegram群](https://t.me/DupayCard)
 
