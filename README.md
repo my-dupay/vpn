@@ -16,7 +16,7 @@
 | [[AntLink VPN官方->使用教程](https://antlink.cc/#/register?code=HjxBGwPS)                                                                                                                                                        | <https://antlink.cc/#/register?code=HjxBGwPS> 
 ## 其他Dupay相关链接
 
-| VPN软件 名称                                                                                                                                                           | 地址                                         |
+| 社区平台                                                                                                                                                           | 地址                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [Dupay注册](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)                                                                                                                                          | <https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn>               |
 | [官方Twitter（推特）](https://x.com/Dupay_CN)                                                                                                                                          | <https://x.com/Dupay_CN>               |
