@@ -2,9 +2,7 @@
 
 ## 软件 名称 和 下载 地址
 
-[家庭代理使用教程](https://telegra.ph/%E6%B5%8B%E8%AF%95%E7%89%88Dupay%E5%AE%B6%E5%BA%AD%E4%BB%A3%E7%90%86-05-28)
-
-[Dupay官方Telegram群](https://t.me/DupayCard)
+[Dupay家庭代理使用教程](https://telegra.ph/%E6%B5%8B%E8%AF%95%E7%89%88Dupay%E5%AE%B6%E5%BA%AD%E4%BB%A3%E7%90%86-05-28)
 
 注意：下载软件后，输入订阅地址点击下载，点击duapyClash后左边栏目点击代理选择全局模式，任务不清楚的地方请联系客服：[客服-LL(不会主动私聊你🙅‍♂️)](https://t.me/DupayLL)
 
