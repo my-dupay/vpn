@@ -8,17 +8,17 @@
 
 ## App下载
 
-| 名称                                                                                                                                                           | 下载地址                                         |
+| 应用名称                                                                                                                                                           | 下载地址                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [[Android]一键连接客户端下载](https://wwp.lanzouv.com/ant-android)                                                                                                                      | <https://wwp.lanzouv.com/ant-android>
-| [[Windows]一键连接客户端下载](https://wwp.lanzouv.com/ant-win)                                                                                                                           | <https://wwp.lanzouv.com/ant-win>                       |
-| [[MacOS]一键连接客户端下载](https://wwp.lanzouv.com/ant-mac)                                                                                                                                      | <https://wwp.lanzouv.com/ant-mac>                |
-| [[AntLink VPN官方->使用教程](https://antlink.cc/#/register?code=HjxBGwPS)                                                                                                                                                        | <https://antlink.cc/#/register?code=HjxBGwPS> 
+| [[Android]一键连接客户端下载](https://wwp.lanzouv.com/ant-android)                                                                                               | <https://wwp.lanzouv.com/ant-android>
+| [[Windows]一键连接客户端下载](https://wwp.lanzouv.com/ant-win)                                                                                                   | <https://wwp.lanzouv.com/ant-win>                       |
+| [[MacOS]一键连接客户端下载](https://wwp.lanzouv.com/ant-mac)                                                                                                     | <https://wwp.lanzouv.com/ant-mac>                |
+| [[AntLink VPN官方->使用教程](https://antlink.cc/#/register?code=HjxBGwPS)                                                                                        | [https://antlink.cc/#/register](https://antlink.cc/#/register?code=HjxBGwPS) 
 ## 其他Dupay相关链接
 
-| 社区平台                                                                                                                                                           | 地址                                         |
+| 社区平台 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;| 地址                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [Dupay注册](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)                                                                                                                                          | <https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn>               |
-| [官方Twitter（推特）](https://x.com/Dupay_CN)                                                                                                                                          | <https://x.com/Dupay_CN>               |
-| [官方Telegram群](https://t.me/DupayCard)                                                                                                                                          | <https://t.me/DupayCard>               |
+| [Dupay注册](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)                                                               | [https://dupay.one/web-app/register-h5](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)              |
+| [官方Twitter（推特）](https://x.com/Dupay_CN)                                                                                                 | <https://x.com/Dupay_CN>               |
+| [官方Telegram群](https://t.me/DupayCard)                                                                                                      | <https://t.me/DupayCard>               |
 
