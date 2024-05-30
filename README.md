@@ -16,6 +16,5 @@
 | 社区平台 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;| 地址                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [Dupay注册](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)                                                               | [https://dupay.one/web-app/register-h5](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)              |
-| [官方Twitter（推特）](https://x.com/Dupay_CN)                                                                                                 | <https://x.com/Dupay_CN>               |
-| [官方Telegram群](https://t.me/DupayCard)                                                                                                      | <https://t.me/DupayCard>               |
+| [Dupay支付场景、费用介绍](https://github.com/my-dupay/dupay.one)                                                                                                 | <https://github.com/my-dupay/dupay.one>               |
 
