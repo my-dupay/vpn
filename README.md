@@ -10,7 +10,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [[Windows]一键连接客户端下载](https://wwp.lanzouv.com/ant-win)                                                                                                   | <https://wwp.lanzouv.com/ant-win>                       |
 | [[MacOS]一键连接客户端下载](https://wwp.lanzouv.com/ant-mac)                                                                                                     | <https://wwp.lanzouv.com/ant-mac>                |
-| [[AntLink] VPN官方->使用教程](https://antlink.cc/#/register?code=HjxBGwPS)                                                                                        | [https://antlink.cc/#/register](https://antlink.cc/#/register?code=HjxBGwPS) 
+| [[AntLink]VPN官网下载](https://antlink.cc/#/register?code=HjxBGwPS)                                                                                        | [https://antlink.cc/#/register](https://antlink.cc/#/register?code=HjxBGwPS) 
 ### 其他Dupay相关链接
 
 | 社区平台 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;| 地址                                         |
