@@ -8,7 +8,6 @@
 
 | 应用名称                                                                                                                                                           | 下载地址                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [[Android]一键连接客户端下载](https://wwp.lanzouv.com/ant-android)                                                                                               | <https://wwp.lanzouv.com/ant-android>
 | [[Windows]一键连接客户端下载](https://wwp.lanzouv.com/ant-win)                                                                                                   | <https://wwp.lanzouv.com/ant-win>                       |
 | [[MacOS]一键连接客户端下载](https://wwp.lanzouv.com/ant-mac)                                                                                                     | <https://wwp.lanzouv.com/ant-mac>                |
 | [[AntLink VPN官方->使用教程](https://antlink.cc/#/register?code=HjxBGwPS)                                                                                        | [https://antlink.cc/#/register](https://antlink.cc/#/register?code=HjxBGwPS) 
