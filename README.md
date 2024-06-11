@@ -1,4 +1,4 @@
-## 【测试版】Dupay家庭代理，你的vpn支持订阅地址或者Clash文件导入可以无需下载，如果不支持或者不兼容请下载以下vpn
+## 【测试版】Dupay家庭代理，您的vpn支持订阅地址下载或者Clash文件导入可以无需下载，若不支持或者不兼容请下载以下vpn
 
 [Dupay家庭代理详细使用教程](https://telegra.ph/%E6%B5%8B%E8%AF%95%E7%89%88Dupay%E5%AE%B6%E5%BA%AD%E4%BB%A3%E7%90%86-05-28)
 
