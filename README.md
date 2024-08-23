@@ -9,7 +9,7 @@
 | 应用名称                                                                                                                                                           | 下载地址                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [[Windows]一键连接客户端下载](https://wwp.lanzouv.com/ant-win)                                                                                                   | <https://wwp.lanzouv.com/ant-win>                       |
-| [[MacOS]一键连接客户端下载](https://wwp.lanzouv.com/ant-mac)                                                                                                     | <https://wwp.lanzouv.com/ant-mac>                |
+| [[MacOS]一键连接客户端下载](https://wwp.lanzouv.com/ant-mac-arm64)                                                                                                     | <https://wwp.lanzouv.com/ant-mac-arm64>                |
 | [[AntLink]VPN更多方式下载](https://antlink.cc/#/register?code=HjxBGwPS)                                                                                        | [https://antlink.cc/#/register](https://antlink.cc/#/register?code=HjxBGwPS) 
 ### 其他Dupay相关链接
 
